@@ -1,4 +1,4 @@
-#Evolutionary Password Cracker
+# Evolutionary Password Cracker
 
 A lightweight, from-scratch implementation of a Genetic Algorithm written in Go. 
 
