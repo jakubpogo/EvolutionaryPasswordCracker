@@ -1,11 +1,11 @@
 # Evolutionary Password Cracker
 
-A lightweight, from-scratch implementation of a Genetic Algorithm written in Go. 
+An implementation of a Genetic Algorithm written in Go. 
 
-Inspired by Daniel Shiffman's "The Nature of Code", this project demonstrates the core pillars of evolutionary search by evolving a population of random characters into a specific target string over successive generations.
+Inspired by Daniel Shiffman's "The Nature of Code", this project demonstrates evolutionary search by evolving a population of random characters into a specific target string over successive generations.
 
 ## Why I Built This
-I built this project to master the mathematical and programmatic fundamentals of evolutionary algorithms, optimization, and search spaces before applying these concepts to modern neural networks and AI alignment. Go was chosen for its execution speed, allowing thousands of generations to process in milliseconds.
+I built this project to understand the mathematical and programmatic fundamentals of evolutionary algorithms, optimization, and search spaces before applying these concepts to modern neural networks and AI alignment. Go was chosen for its execution speed, allowing thousands of generations to process in milliseconds.
 
 ## Core Mechanics
 
